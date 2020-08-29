@@ -4,3 +4,4 @@
 <p>To make this type review system we have to first divide all the reviews into simpler sentences and then pass them through a <strong>SENTIMENT CLASSIFIER</strong>. This sentiment classifier will tell us whether the sentence is a positive or negative one. Based on which it will analyse the rating for the particular quality parameter for that restaurant.</p>
 <br>
 ## SENTIMENT CLASSIFIER
+It will analyse the reviews on the basis of certain keywords, that whether they are positive or negative.
